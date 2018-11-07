@@ -1,0 +1,22 @@
+{
+  "name": "pwa-project1",
+  "version": "1.0.0",
+  "description": "A pwa application(an instagram clone)",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Gurjot Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
